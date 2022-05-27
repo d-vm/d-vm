@@ -1,4 +1,4 @@
-![https://github.com/antoniolg](https://davma.io/wp-content/uploads/2022/05/davma.io10.png)
+![https://github.com/antoniolg](https://davma.io/wp-content/uploads/2022/05/davma.io11.png)
 </br>
 </br>
 </br>
@@ -11,14 +11,14 @@
 ### Skills:
 
  - Azure
-    - Azure DevOps
+    - [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)
     - Active Directory
     - SQL Server
     - Storage
     - KeyVault
     - AKS
- - Docker
- - Kubernetes
+ - [Docker](https://www.docker.com/)
+ - [Kubernetes](https://kubernetes.io/)
  - SQL
  - Mqtt
 
