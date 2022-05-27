@@ -26,4 +26,4 @@
 ### Contact me
 
  - [Linkedyn](https://www.linkedin.com/in/david-ventura-mar%C3%ADa/)
- - [davma.io](v)
+ - [davma.io](https://davma.io)
