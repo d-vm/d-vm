@@ -1,16 +1,29 @@
-### Hi there 👋
+![https://github.com/antoniolg](https://davma.io/wp-content/uploads/2022/05/davma.io10.png)
+</br>
+</br>
+</br>
 
-<!--
-**davma-io/davma-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, my name is David Ventura
 
-Here are some ideas to get you started:
+### Currently expanding knowledge in microservices. Working with K8s managing, deploying and monitoring data collection, storage and analysis microservices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Skills:
+
+ - Azure
+    - Azure DevOps
+    - Active Directory
+    - SQL Server
+    - Storage
+    - KeyVault
+    - AKS
+ - Docker
+ - Kubernetes
+ - SQL
+ - Mqtt
+
+
+### Contact me
+
+ - [Linkedyn](https://www.linkedin.com/in/david-ventura-mar%C3%ADa/)
+ - [davma.io](v)
