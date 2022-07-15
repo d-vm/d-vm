@@ -17,7 +17,8 @@
  - Linux / Virtualization
  - [Docker](https://www.docker.com/) & docker compose
  - [Kubernetes](https://kubernetes.io/)
- - Mqtt
+ - [Eclipse Mosquitto](https://mosquitto.org/)
+ - Basic knowledge of [Python](https://www.python.org/)
 
 ### 2. Analytics and monitoring skills
 
