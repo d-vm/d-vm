@@ -8,22 +8,35 @@
 ### Currently expanding knowledge in microservices. Working with K8s managing, deploying and monitoring data collection, storage and analysis microservices.
 
 
-### Skills:
+### 1. SRE and DevOps skills
 
- - Azure
-    - [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)
-    - Active Directory
-    - SQL Server
-    - Storage
-    - KeyVault
-    - AKS
+|Azure|  |   |   |   |   |
+|---|---|---|---|---|---|
+| AKS |  [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) | SQL Server | Storage  | KeyVault | Active Directory | 
+
  - [Docker](https://www.docker.com/)
  - [Kubernetes](https://kubernetes.io/)
  - SQL
  - Mqtt
 
+### 2. Analytics and monitoring skills
 
-### Contact me
+ - [Grafana](https://grafana.com/) ( [davma.io templates](https://github.com/davma-io-templates/grafana-template) )
+ - [Prometheus - Loki](https://grafana.com/docs/loki/latest/)
+
+
+### 3. Public container image for systems and development
+
+Public images of davma.io that have been used for the development of artificial intelligence systems and deployment of microservices
+
+- [GitHub Images](https://github.com/davma-io-images)
+- [Docker Hub](https://hub.docker.com/u/davma)
+
+### 4. Open Source testing template
+
+Can find a list of Open Source applications maintained by davma.io in the [Napptive plataform](https://napptive.com/platform)
+
+### 5. Contact me
 
  - [Linkedyn](https://www.linkedin.com/in/david-ventura-mar%C3%ADa/)
  - [davma.io](https://davma.io)
