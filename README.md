@@ -14,9 +14,9 @@
 |---|---|---|---|---|---|
 | AKS |  [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) | SQL Server | Storage  | KeyVault | Active Directory | 
 
- - [Docker](https://www.docker.com/)
+ - Linux / Virtualization
+ - [Docker](https://www.docker.com/) & docker compose
  - [Kubernetes](https://kubernetes.io/)
- - SQL
  - Mqtt
 
 ### 2. Analytics and monitoring skills
