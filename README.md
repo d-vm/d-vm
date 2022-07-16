@@ -10,9 +10,9 @@
 
 ### 1. SRE and DevOps skills
 
-|Azure|  |   |   |   |   |
+|Azure services|  |   |   |   |   |
 |---|---|---|---|---|---|
-| AKS |  [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) | SQL Server | Storage  | KeyVault | Active Directory | 
+|  [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) | [AKS](https://docs.microsoft.com/en-us/azure/aks/) | [Azure SQL Server](https://azure.microsoft.com/es-es/services/sql-database/campaign/#overview) | [Azure Storage](https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction) | [Key Vault](https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction) | [Active Directory](https://azure.microsoft.com/es-es/services/active-directory/) | 
 
  - Linux / Virtualization
  - [Docker](https://www.docker.com/) & docker compose
@@ -30,7 +30,7 @@
 
 Public images of davma.io that have been used for the development of artificial intelligence systems and deployment of microservices
 
-- [GitHub Images](https://github.com/davma-io-images)
+- [GitHub davma.io images](https://github.com/davma-io-images)
 - [Docker Hub](https://hub.docker.com/u/davma)
 
 ### 4. Open Source testing template
